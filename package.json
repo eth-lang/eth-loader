@@ -1,6 +1,6 @@
 {
   "name": "eth-loader",
-  "version": "1.1.0",
+  "version": "1.5.0",
   "description": "webpack loader for eth lang",
   "main": "index.js",
   "scripts": {
