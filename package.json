@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/kiasaki/eth-loader#readme",
   "dependencies": {
-    "eth": "1.4.0"
+    "eth": "1.5.0"
   }
 }
