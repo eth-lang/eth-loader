@@ -1,6 +1,6 @@
 {
   "name": "eth-loader",
-  "version": "1.6.0",
+  "version": "2.1.0",
   "description": "webpack loader for eth lang",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/kiasaki/eth-loader/issues"
   },
   "homepage": "https://github.com/kiasaki/eth-loader#readme",
-  "dependencies": {
-    "eth": "1.6.0"
+  "peerDependencies": {
+    "eth": "2.x"
   }
 }
