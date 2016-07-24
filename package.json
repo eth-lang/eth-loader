@@ -1,6 +1,6 @@
 {
   "name": "eth-loader",
-  "version": "2.1.0",
+  "version": "4.0.0",
   "description": "webpack loader for eth lang",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiasaki/eth-loader.git"
+    "url": "git+https://github.com/eth-lang/eth-loader.git"
   },
   "keywords": [
     "webpack",
@@ -17,13 +17,13 @@
     "eth",
     "lang"
   ],
-  "author": "",
+  "author": "Frederic Gingras",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiasaki/eth-loader/issues"
+    "url": "https://github.com/eth-lang/eth-loader/issues"
   },
-  "homepage": "https://github.com/kiasaki/eth-loader#readme",
+  "homepage": "https://github.com/eth-lang/eth-loader#readme",
   "peerDependencies": {
-    "eth": "2.x"
+    "eth": "4.x"
   }
 }
